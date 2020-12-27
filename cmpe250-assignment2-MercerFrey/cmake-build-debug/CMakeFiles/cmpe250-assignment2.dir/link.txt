@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cmpe250-assignment2.dir/RestaurantOrganizer.cpp.o CMakeFiles/cmpe250-assignment2.dir/main.cpp.o  -o cmpe250-assignment2 
